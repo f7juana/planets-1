@@ -1,3 +1,5 @@
 *.dat
-log*
+results/
+
+log_*
 results/
